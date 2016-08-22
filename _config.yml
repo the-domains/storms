@@ -6,9 +6,9 @@ color:
   saturation: 0.33481656666845083
   rhythmicContrast: 0.6754416939802468
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: Storms
