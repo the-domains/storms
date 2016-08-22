@@ -1,0 +1,14 @@
+layout_spectrum: 0.2810745208989829
+typography_spectrum: 0.760257714195177
+color:
+  brandStrength: 0.45524861104786396
+  lightness: 0.29403385939076543
+  saturation: 0.33481656666845083
+  rhythmicContrast: 0.6754416939802468
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Storms
